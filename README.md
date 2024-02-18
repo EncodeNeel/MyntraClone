@@ -16,7 +16,7 @@ MyntraClone is a project aimed at replicating the functionality and design of My
 
 To run the MyntraClone locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/MyntraClone.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/EncodeNeel/MyntraClone.git`.
 2. Navigate to the project directory.
 3. Open `index.html` in your preferred web browser.
 
