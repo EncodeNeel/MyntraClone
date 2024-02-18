@@ -1,4 +1,4 @@
-#Myntra Clone
+#MyntraClone
 
 Myntra Clone is a basic replication of the beloved online fashion hub, Myntra. Crafted solely with HTML and CSS, this project mirrors Myntra's layout and a subset of its functionalities, offering a glimpse into the world of web development.
 
